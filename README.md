@@ -1,2 +1,2 @@
-# Princ_CS
+# CS_Princ
 Learn it!
